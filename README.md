@@ -1,3 +1,3 @@
 To run this application you just need to run 
 
-java Main.java <csvPath>
+java Main.java "sample_5k.csv"
